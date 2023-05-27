@@ -1,6 +1,7 @@
 # <img src="https://user-images.githubusercontent.com/4319621/36906314-e3f99680-1e35-11e8-90fd-f959c9641f36.png" alt="Notepadqq" width="32" height="32" /> Notepadqq - OpenTextEdit
 
 Notepadqq is a text editor designed by developers, for developers.
+### Links
 
 *This fork of Notepadqq replaces the JavaScript-centric CodeMirror editor with a native component called OpenTextEdit. It is faster and less resource-consuming than CodeMirror, and resolves many of the [outstanding issues](https://github.com/JuBan1/notepadqq/issues/1) of Notepadqq.*
 
